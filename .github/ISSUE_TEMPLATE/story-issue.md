@@ -1,6 +1,6 @@
 ---
 name: 📗 Story
-description: 스토리 이슈를 지정합니다. 비즈니스와 관련된 요구사항을 명시하는 중간 단위 이슈 입니다.
+about: 스토리 이슈를 지정합니다. 비즈니스와 관련된 요구사항을 명시하는 중간 단위 이슈 입니다.
 title: '[Story] <title>'
 labels:
   - Story

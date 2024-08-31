@@ -1,6 +1,6 @@
 ---
 name: 📕 Epic
-description: 에픽 이슈를 지정합니다. 가장 큰 단위의 이슈로, 하위 Story, Task를 포함합니다.
+about: 에픽 이슈를 지정합니다. 가장 큰 단위의 이슈로, 하위 Story, Task를 포함합니다.
 title: '[Epic] <title>'
 labels:
   - Epic
